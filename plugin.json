@@ -1,0 +1,7 @@
+{
+    "id": "com.mattermost.mm-to-hangout",
+    "name": "MM to Hangout",
+    "server": {
+        "executable": "plugin.exe"
+    }
+}
